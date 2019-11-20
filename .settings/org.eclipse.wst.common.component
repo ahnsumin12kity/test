@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="P수민쇼핑몰">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/build/WebContent"/>
+        <property name="context-root" value="P수민쇼핑몰"/>
+        <property name="java-output-path" value="/P수민쇼핑몰/build/classes"/>
+    </wb-module>
+</project-modules>
